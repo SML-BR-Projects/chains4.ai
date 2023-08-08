@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=203840069395:region=ap-southeast-2": [
+    "ap-southeast-2a",
+    "ap-southeast-2b",
+    "ap-southeast-2c"
+  ],
+  "hosted-zone:account=203840069395:domainName=ai.awsbuilders.cloud:region=ap-southeast-2": {
+    "Id": "/hostedzone/Z10048941Y0GGPWOVDZHU",
+    "Name": "ai.awsbuilders.cloud."
+  }
+}
